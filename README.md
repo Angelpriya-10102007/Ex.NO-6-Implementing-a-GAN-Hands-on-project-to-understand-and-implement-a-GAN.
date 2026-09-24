@@ -401,6 +401,7 @@ Generative Adversarial Networks (GAN) can generate realistic images by learning 
     
             plt.show()
 ## OUTPUT
+<img width="481" height="504" alt="image" src="https://github.com/user-attachments/assets/2f196b63-ba57-44c2-807b-f05f40977ed9" />
 <img width="835" height="712" alt="image" src="https://github.com/user-attachments/assets/a3e129b6-1a47-43aa-b655-7c4b551ace85" />
 <img width="772" height="582" alt="image" src="https://github.com/user-attachments/assets/31ade33f-7737-4530-a62c-53152df6a9f5" />
 
